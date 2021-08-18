@@ -16,5 +16,5 @@ modelling.
 * [LinkedIn](https://www.linkedin.com/in/fellipe-perini-rodrigues-810266a5/)
 
 ## Projects:
-* Airbnb - Data exploration: https://bityli.com/Jxc3Y
+* Data exploration - Airbnb : https://bityli.com/Jxc3Y
 * Random Forest - Red wine review: https://bit.ly/3s7N79X
