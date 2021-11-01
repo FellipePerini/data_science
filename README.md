@@ -16,6 +16,6 @@ modelling.
 * [LinkedIn](https://www.linkedin.com/in/fellipe-perini-rodrigues-810266a5/)
 
 ## Projects:
-* Fraud classification - Credit card Fraud: https://bityli.com/H91ZYv
+* Fraud classification (logistic regression and decision tree) - Credit card fraud: https://bityli.com/H91ZYv
 * Data exploration - Airbnb: https://bityli.com/qm8B3
 * Random Forest - Red wine review: https://bit.ly/3s7N79X
