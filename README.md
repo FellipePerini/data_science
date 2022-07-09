@@ -5,9 +5,9 @@
 </p>
 
 # Fellipe Perini
-<sub>*Music Discovery Programming Specialist* at Bytedance</sub>
+<sub>*Music Discovery & Programming Specialist* at Bytedance</sub>
 
-Passion for data and how the environment can be transformed by it. Eight years diving in streaming music market, tracking tendencies and commercial opportunities. Two years experience in wholesale market, developing new channels and customer shopping experience in Marketing team role. 
+Passion for data and how the environment can be transformed by it. Eight years diving in the music streaming market, tracking tendencies and commercial opportunities. Before that, two years experience in the wholesale market, developing new channels and customer shopping experience in the marketing team. 
 
 **Background in:** Data/Big Data role focused on data visualization, forecasting (time series data) and statistical 
 modelling.
