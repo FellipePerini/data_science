@@ -16,6 +16,7 @@ modelling.
 * [LinkedIn](https://www.linkedin.com/in/fellipe-perini-rodrigues-810266a5/)
 
 ## Projects:
+* PyCaret classification - Fetal health: https://bit.ly/3auEFNl
 * PyCaret regression - Life insurence: https://bit.ly/3zhpK35
 * Fraud classification (logistic regression and decision tree) - Credit card fraud: https://bityli.com/H91ZYv
 * Data exploration - Airbnb: https://bityli.com/qm8B3
